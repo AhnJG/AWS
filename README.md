@@ -22,7 +22,7 @@
 
 ### IAM
 - AWS 리소스에 대한 액세스를 안전하게 제어할 수 있는 웹 서비스입니다. IAM을 사용하여 리소스를 사용하도록 인증(로그인) 및 권한 부여(권한 있음)된 대상을 제어합니다.
-- [IAM_doc](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
+- [IAM이란?](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
 
 ### Elastic Beanstalk
 - Elastic Beanstalk를 사용하면, 애플리케이션을 실행하는 인프라에 대한 염려 없이 AWS 클라우드에서 애플리케이션을 신속하게 배포 및 관리할 수 있습니다. 
