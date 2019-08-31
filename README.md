@@ -110,6 +110,8 @@
 - API Gateway API 개발자는 자체 클라이언트 애플리케이션(앱)에서 사용할 API를 만들 수 있습니다
 - [Amazon API Gateway이란 무엇입니까?](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html)
 
+---
+
 ### ACM(Certificate Manager)
 - ACM에서는 AWS 기반 웹 사이트 및 애플리케이션에 대한 공인 SSL/TLS 인증서를 생성 및 관리하는 복잡한 과정을 처리합니다. 
 - ACM에서 제공하는 공인 인증서(ACM 인증서) 또는 ACM으로 가져온 인증서를 사용할 수 있습니다. 
