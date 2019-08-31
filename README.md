@@ -20,6 +20,7 @@
 
 #### 외부에서 접속하기
 - Publicly Accessible을 Yes로 설정해야된다(기본값 No)
+- [외부에서 접속 안될때](https://devlog.jwgo.kr/2017/06/15/aws-rds-workbench/)
 ---
 
 ### S3
